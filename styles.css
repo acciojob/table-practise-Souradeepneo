@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+table{
+	background:yellow;
+	border-style:solid;
+	border-color:black;
+	border-width:1px;
+}
+th{
+	border-style:solid;
+	border-color:black;
+	border-width:1px;
+}
+tr{
+	border-style:solid;
+	border-color:black;
+	border-width:1px;
+}
+td{
+	border-style:solid;
+	border-color:black;
+	border-width:1px;
+}
